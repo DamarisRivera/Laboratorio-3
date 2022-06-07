@@ -20,3 +20,19 @@ Objetivo Específicos:
 # 3. EXPLICACIÓN DEL PROCEDIEMIENTO 
 
 ![image](https://user-images.githubusercontent.com/105617383/172480657-6707e0d6-6f4e-44f7-ad4b-07e341bc14a3.png)
+
+
+# 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+# 5.VIDEO
+
+
+
+# 6.CONCLUSIONES
+
+
+
+# 7.BIBLIOGRAFÍA
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
