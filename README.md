@@ -33,7 +33,7 @@ Objetivo Específicos:
 
 * De acuerdo a que nodo se analice se irán formando ecuaciones y luego al unirlas obtendremos un sistema de ecuaciones.
 
-* Dentro del circuito desarrollado se reconoce como nodo de referncia a .......... y como nodo principal al ......
+* Dentro del circuito desarrollado se reconoce como nodo de referncia a al nodo 4 y como nodo principal a los nodos 2, 3 y 4.
 
 * Para encontrar los voltajes utilizando la Ley de Kirchhoff se necesita de las resistencias y se irá formando un sistema de ecuaciones para econtrar los voltajess por cada nodo.
 
