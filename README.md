@@ -31,7 +31,7 @@ Objetivo Específicos:
 
 # 6.CONCLUSIONES
 
-* De acuerdo a que nodo se analice se irán formando ecuaciones y luego al unirlas obtendremos un sistema de ecuaciones.
+* De acuerdo a que nodo se analice se irán formando ecuaciones y luego al unirlas obtendremos un sistema de ecuaciones que resolviendo nos dará los voltajes que pasan por cada nodo.
 
 * Dentro del circuito desarrollado se reconoce como nodo de referncia a al nodo 4 y como nodo principal a los nodos 2, 3 y 4.
 
