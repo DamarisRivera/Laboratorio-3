@@ -31,7 +31,14 @@ Objetivo Específicos:
 
 # 6.CONCLUSIONES
 
+* Conocer el comportamiento de los voltajes dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
 
+* Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.
+
+* Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
+
+* Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
+* 
 
 # 7.BIBLIOGRAFÍA
 
