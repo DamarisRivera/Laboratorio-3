@@ -1,9 +1,7 @@
 # Laboratorio 3
 # 1. OBJETIVOS 
 Objetivo General:
-* Analizar y comprobar de forma teorica y experimental la veracidad que tienen las leyes de kirchhoff con respecto a los voltajes y corrientes de un circuito electrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará el tema “Análisis de nodos” de un circuito eléctrico mixto, cabe recalcar que el presente circuito ya ha sido resuelto mediante el analisis de mallas, por lo que se espera los mismos resultados a la practica, para dicho desarrollo, se utilizara simuladores virtuales de circuitos eléctricos los cuales brindaran oportunidad de corroborar la exactitud de los datos teóricos obtenidos. 
-
-Analizar y comprobar de forma teorica y experimental la Ley de Voltajes de kirchhoff utilizando análisis de nodos para solucionar un circuito eléctrico mixto y recreando el circuito en simuladores virtuales el cual no permite corroborar la exactitud de los datos teóricos obtenidos.
+* Analizar y comprobar de forma teorica y experimental la Ley de Voltajes de kirchhoff utilizando análisis de nodos para solucionar un circuito eléctrico mixto y recreando el circuito en simuladores virtuales el cual no permite corroborar la exactitud de los datos teóricos obtenidos.
 
 Objetivo Específicos:
 
