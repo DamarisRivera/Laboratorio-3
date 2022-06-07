@@ -35,7 +35,7 @@ Objetivo Específicos:
 
 * Dentro del circuito desarrollado se reconoce como nodo de referncia a al nodo 4 y como nodo principal a los nodos 2, 3 y 4.
 
-* Para encontrar los voltajes utilizando la Ley de Kirchhoff se necesita de las resistencias y se irá formando un sistema de ecuaciones para econtrar los voltajess por cada nodo.
+* Para encontrar los voltajes utilizando la Ley de Kirchhoff se necesita de las resistencias y se irá formando un sistema de ecuaciones para econtrar los voltajes por cada nodo y comprobando los resultados con el simulador virtual.
 
 * Se presentan un pequeño porcentaje de error entre los datos cálculados, simulados y experimentales, ya que, al estar comparando un circuito real con uno realizado en simulación se pierden unos décimales que no se observan en las mediciones.
 
