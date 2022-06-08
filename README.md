@@ -20,6 +20,8 @@ Objetivo Específicos:
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
 ![image](https://user-images.githubusercontent.com/105617383/172480657-6707e0d6-6f4e-44f7-ad4b-07e341bc14a3.png)
+![image](https://user-images.githubusercontent.com/105617383/172512244-8016ca15-5294-4c2e-b600-a3ffa7cff43b.png)
+
 
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
