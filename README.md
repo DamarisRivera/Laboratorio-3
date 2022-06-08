@@ -37,7 +37,7 @@ Objetivo Específicos:
 
 * Para encontrar los voltajes utilizando la Ley de Kirchhoff se necesita de las resistencias y se irá formando un sistema de ecuaciones para econtrar los voltajes por cada nodo y comprobando los resultados con el simulador virtual.
 
-* Se presentan un pequeño porcentaje de error entre los datos cálculados, simulados y experimentales, ya que, al estar comparando un circuito real con uno realizado en simulación se pierden unos décimales que no se observan en las mediciones.
+* Se presentan un pequeño porcentaje de error entre los datos cálculados, simulados y experimentales, ya que, al estar comparando un circuito real y datos calculados con uno realizado en simulación se pierden unos décimales que no se observan en las mediciones.
 
 # 7.BIBLIOGRAFÍA
 
