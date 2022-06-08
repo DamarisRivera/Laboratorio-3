@@ -5,7 +5,7 @@ Objetivo General:
 
 Objetivo Específicos:
 
-* Conocer el comportamiento de los voltajes dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
+* Conocer el comportamiento de las Leyes de kirchhoff dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
 
 * Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.
 
