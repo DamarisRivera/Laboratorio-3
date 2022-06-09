@@ -35,6 +35,8 @@ Resolviendo el sistema de ecuaciones se encuentran los voltajes de VB y VC.
 
 4.1. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla.
 
+![image](https://user-images.githubusercontent.com/105617383/172750357-f2a19137-22c5-4e70-bb47-03c1adbe7cc6.png)
+
 ![image](https://user-images.githubusercontent.com/105671763/172744487-f2f53585-d8cf-4568-b263-e46fafee74bf.png)
 
 4.2 Circuito en físico, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla.
