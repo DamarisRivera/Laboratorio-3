@@ -41,7 +41,7 @@ Resolviendo el sistema de ecuaciones se encuentran los voltajes de VB y VC.
 
 4.2 Circuito en físico, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla.
 
-
+![image](https://user-images.githubusercontent.com/105671763/172750627-b7f4f412-404c-4929-9923-31f676db1fa4.png)
 
 ![image](https://user-images.githubusercontent.com/105671763/172747202-bda60ce0-b729-471f-93e9-1a1514caec81.png)
 
