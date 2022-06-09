@@ -33,17 +33,23 @@ Resolviendo el sistema de ecuaciones se encuentran los voltajes de VB y VC.
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+4.1. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla.
+
 ![image](https://user-images.githubusercontent.com/105671763/172744487-f2f53585-d8cf-4568-b263-e46fafee74bf.png)
+
+4.2 Circuito en físico, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla.
+
+
 
 ![image](https://user-images.githubusercontent.com/105671763/172747202-bda60ce0-b729-471f-93e9-1a1514caec81.png)
 
-4.2
+4.3 Calculo del porcentaje de error entre los resultados análiticos, experimentales y simulados.
 
 ![image](https://user-images.githubusercontent.com/105671763/172747252-bdf3e808-7d16-46c1-b9db-3c6699d88c7e.png)
-
 ![image](https://user-images.githubusercontent.com/105671763/172747321-d02a87ae-f4db-47e2-8b03-d9e30b7e9dd1.png)
 ![image](https://user-images.githubusercontent.com/105671763/172747342-6f820ce3-1304-4d36-ade9-1b1adb036763.png)
 
+Dentro de las tablas que se muestra un error se debe a los décimales que no son tomados en cuenta y también que al comparar circuitos reales con simulados causa un porcentaje de error considerable.
 
 # 5.VIDEO
 
