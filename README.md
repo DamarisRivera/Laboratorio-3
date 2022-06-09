@@ -26,6 +26,9 @@ Objetivo Específicos:
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/105671763/172744487-f2f53585-d8cf-4568-b263-e46fafee74bf.png)
+
+
 ![image](https://user-images.githubusercontent.com/105671763/172511554-71866432-d9a1-48fb-8b90-ee1357753f6b.png)
 
 4.2
