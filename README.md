@@ -19,10 +19,17 @@ Objetivo Específicos:
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
+3.1. Implemente el circuito que se presenta en la figura 3.1.
+
+En el siguiente circuito analizar por método de nodos el voltaje.
+
 ![image](https://user-images.githubusercontent.com/105617383/172480657-6707e0d6-6f4e-44f7-ad4b-07e341bc14a3.png)
+
+3.2. A continuación se va a hacer los calculos utilizando la ley de voltajes de Kirchoff para hallar las tres corrientes.
+
 ![image](https://user-images.githubusercontent.com/105617383/172512244-8016ca15-5294-4c2e-b600-a3ffa7cff43b.png)
 
-
+Se encuentran los voltajes de VB y VC.
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
