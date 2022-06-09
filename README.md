@@ -33,7 +33,7 @@ Objetivo Específicos:
 ![image](https://user-images.githubusercontent.com/105671763/172511583-ec9169c6-e99f-4606-a784-af813fa0fac0.png)
 ![image](https://user-images.githubusercontent.com/105671763/172511610-f419548a-7a20-4725-87a1-47191d2f7acc.png)
 
-Dentro de las dos primeras tablas 
+Dentro de las dos primeras tablas se observa un mayor porcentaje de error ya que para los datos experimentales no se utilizo una fuente de 10 V, si no una de 9 V, causando esto un mayor margen de error.
 
 ![image](https://user-images.githubusercontent.com/105671763/172511644-a8aae358-c1ea-4fcd-a70e-3410731383dd.png)
 
